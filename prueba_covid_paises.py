@@ -98,6 +98,7 @@ for i in range(0, len(table)):
                 casos_cerrados = datos[1].text
                 contador = contador + 1
                 df_act.loc[contador]=[pais, 'Total', casos, fallecimientos, recuperados, casos_activos, casos_cerrados, None]
+
                 #dict_paises[pais] = ['Total', casos, fallecimientos, recuperados, casos_activos, casos_cerrados]
             else:
                 #dict_paises[pais] = ['Total', casos, fallecimientos, recuperados, None, None]
@@ -129,6 +130,7 @@ for i in range(0, len(table)):
                             #dict_paises[pais] = [region, casos, fallecimientos, None, casos_activos, None]
                     contador += 1
                     df_act.loc[contador]=[pais, region, casos, fallecimientos, None, casos_activos, None, None]
+
             if pais == 'Spain':
                 url_final ='https://covid19.isciii.es/'
                 sesion = HTMLSession()
