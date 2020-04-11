@@ -1,2 +1,11 @@
-# Tipologia-PRA1
-Práctica 1 de la asignatura Tipología del ciclo de vida de los datos: web scrapìng
+Práctica 1: Web scraping
+Descripción
+Esta práctica se ha realizado como avtividad de la asignatura Tipología y ciclo de vida de los datos, perteneciente al Máster en Ciencia de Datos de la Universitat Oberta de Catalunya. En ella, se aplican técnicas de web scraping mediante el lenguaje de programación Python para extraer así datos relacionados con la pandemia Covid-19 y generar un dataset.
+
+Miembros del equipo
+La actividad ha sido realizada por Raquel Gómez Pérez y Jorge Serra Planelles.
+
+Ficheros del código fuente
+src/scraper.py: contiene el código completo de la práctica en el que se realiza el proceso de scraping y se genera el dataset.
+
+Recursos
