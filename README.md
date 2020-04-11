@@ -6,6 +6,6 @@ Esta práctica se ha realizado como avtividad de la asignatura Tipología y cicl
 La actividad ha sido realizada por Raquel Gómez Pérez y Jorge Serra Planelles.
 
 ## Ficheros del código fuente
-src/scraper.py: contiene el código completo de la práctica en el que se realiza el proceso de scraping y se genera el dataset.
+* **src/scraper.py: contiene el código completo de la práctica en el que se realiza el proceso de scraping y se genera el dataset.
 
 ## Recursos
