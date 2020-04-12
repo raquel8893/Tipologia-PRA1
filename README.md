@@ -8,4 +8,10 @@ La actividad ha sido realizada por Raquel Gómez Pérez y Jorge Serra Planelles.
 ## Ficheros del código fuente
 * src/scraper.py: contiene el código completo de la práctica en el que se realiza el proceso de scraping y se genera el dataset.
 
+## Dataset
+
+* Ubicación: csv/dataset.csv.
+* Link de Zenodo: https://zenodo.org/record/3749226#.XpMlSMgzbIU
+* DOI: 10.5281/zenodo.3749226
+
 ## Recursos
