@@ -17,3 +17,7 @@ La actividad ha sido realizada por Raquel Gómez Pérez y Jorge Serra Planelles.
 ## Recursos
 
 * Reitz, K. 2018. Requests-HTML: HTML Parsing for Humans. From: https://requests.readthedocs.io/projects/requests-html/en/latest/
+* Richardson, R. 2020. Beautiful Soup Documentation. From Crummy: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+* Schafer, C. 2017. Python Tutorial: Web Scraping with BeautifulSoup and Requests. From YouTube: https://www.youtube.com/watch?v=ng2o98k983k&t=917s
+* Schafer, C. 2019. Python Tutorial: Web Scraping with Requests-HTML. From YouTube: https://www.youtube.com/watch?v=a6fIbtFB46g&t=645s
+* Creative Commons. 2020. From: https://creativecommons.org/
