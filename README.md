@@ -15,3 +15,5 @@ La actividad ha sido realizada por Raquel Gómez Pérez y Jorge Serra Planelles.
 * DOI: 10.5281/zenodo.3749226
 
 ## Recursos
+
+* Reitz, K. 2018. Requests-HTML: HTML Parsing for Humans. From: https://requests.readthedocs.io/projects/requests-html/en/latest/
