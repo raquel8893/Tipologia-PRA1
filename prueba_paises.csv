@@ -1,0 +1,299 @@
+Pais;Region;Casos totales;Fallecimientos;Recuperados;Casos activos;Casos cerrados;Fecha
+World;Total;1133453;60379;236000;837074;296379;04/04/2020
+USA;New York;103476;3218;8886;91372;12104;04/04/2020
+USA;New Jersey;29895;646;0;29249;646;04/04/2020
+USA;Michigan;12744;479;5;12260;484;04/04/2020
+USA;California;12581;285;850;11446;1135;04/04/2020
+USA;Massachusetts;10402;192;10;10200;202;04/04/2020
+USA;Louisiana;10297;370;20;9907;390;04/04/2020
+USA;Florida;10268;170;0;10098;170;04/04/2020
+USA;Illinois;8904;210;2;8692;212;04/04/2020
+USA;Pennsylvania;8420;102;38;8280;140;04/04/2020
+USA;Washington;6966;291;563;6112;854;04/04/2020
+USA;Georgia;5967;198;0;5769;198;04/04/2020
+USA;Texas;5658;97;250;5311;347;04/04/2020
+USA;Connecticut;4914;131;0;4783;131;04/04/2020
+USA;Colorado;4173;111;0;4062;111;04/04/2020
+USA;Indiana;3437;102;0;3335;102;04/04/2020
+USA;Ohio;3312;91;0;3221;91;04/04/2020
+USA;Tennessee;3194;37;248;2909;285;04/04/2020
+USA;Maryland;2758;42;159;2557;201;04/04/2020
+USA;North Carolina;2328;28;20;2280;48;04/04/2020
+USA;Missouri;2113;19;2;2092;21;04/04/2020
+USA;Virginia;2012;46;2;1964;48;04/04/2020
+USA;Wisconsin;1916;46;2;1868;48;04/04/2020
+USA;Arizona;1769;41;3;1725;44;04/04/2020
+USA;South Carolina;1700;34;0;1666;34;04/04/2020
+USA;Alabama;1515;38;0;1477;38;04/04/2020
+USA;Nevada;1514;43;29;1442;72;04/04/2020
+USA;Mississippi;1358;29;0;1329;29;04/04/2020
+USA;Utah;1246;7;0;1239;7;04/04/2020
+USA;Idaho;1013;10;0;1003;10;04/04/2020
+USA;Oklahoma;988;38;1;949;39;04/04/2020
+USA;Oregon;899;22;0;877;22;04/04/2020
+USA;Kentucky;831;37;64;730;101;04/04/2020
+USA;Minnesota;789;22;288;479;310;04/04/2020
+USA;District Of Columbia;757;15;173;569;188;04/04/2020
+USA;Arkansas;738;12;75;651;87;04/04/2020
+USA;Rhode Island;711;14;0;697;14;04/04/2020
+USA;Iowa;699;11;18;670;29;04/04/2020
+USA;Kansas;620;17;0;603;17;04/04/2020
+USA;New Hampshire;540;7;144;389;151;04/04/2020
+USA;New Mexico;495;10;0;485;10;04/04/2020
+USA;Delaware;450;14;71;365;85;04/04/2020
+USA;Maine;432;9;113;310;122;04/04/2020
+USA;Vermont;389;17;0;372;17;04/04/2020
+USA;Hawaii;319;3;58;258;61;04/04/2020
+USA;Nebraska;279;6;0;273;6;04/04/2020
+USA;Montana;262;6;0;256;6;04/04/2020
+USA;West Virginia;237;2;0;235;2;04/04/2020
+USA;South Dakota;187;2;68;117;70;04/04/2020
+USA;North Dakota;173;3;55;115;58;04/04/2020
+USA;Wyoming;166;0;26;140;26;04/04/2020
+USA;Alaska;157;3;0;154;3;04/04/2020
+USA;Total;277607;7406;12283;154;3;04/04/2020
+Spain;Andalucía;7869;;;;;03/04/2020
+Spain;Aragón;3078;;;;;03/04/2020
+Spain;Principado de Asturias;1522;;;;;03/04/2020
+Spain;Islas Baleares;1271;;;;;03/04/2020
+Spain;Canarias;1564;;;;;03/04/2020
+Spain;Cantabria;1384;;;;;03/04/2020
+Spain;Castilla y León;8332;;;;;03/04/2020
+Spain;Castilla La Mancha;9324;;;;;03/04/2020
+Spain;Cataluña;24734;;;;;03/04/2020
+Spain;Galicia;5625;;;;;03/04/2020
+Spain;C. Valenciana;6901;;;;;03/04/2020
+Spain;Extremadura;1979;;;;;03/04/2020
+Spain;Comunidad de Madrid;36249;;;;;03/04/2020
+Spain;Región de Murcia;1188;;;;;03/04/2020
+Spain;Comunidad Foral de Navarra;2972;;;;;03/04/2020
+Spain;País Vasco;8187;;;;;03/04/2020
+Spain;La Rioja;2405;;;;;03/04/2020
+Spain;Ceuta;73;;;;;03/04/2020
+Spain;Melilla;79;;;;;03/04/2020
+Spain;Total;124736;11744;34219;78773;45963;03/04/2020
+Italy;Lombardia;47;8;13;26;21;03/04/2020
+Italy;Emilia-Romagna;15;1;1;13;2;03/04/2020
+Italy;Piemonte;10;1;723;-714;724;03/04/2020
+Italy;Veneto;10;572;1;-563;573;03/04/2020
+Italy;Toscana;5;290;300;-585;590;03/04/2020
+Italy;Marche;4;557;42;-595;599;03/04/2020
+Italy;Liguria;3;519;700;-1216;1219;03/04/2020
+Italy;Trentino-Alto Adige;3;343;457;-797;800;03/04/2020
+Italy;Lazio;3;199;392;-588;591;03/04/2020
+Italy;Campania;2;181;144;-323;325;03/04/2020
+Italy;Puglia;2;164;69;-231;233;03/04/2020
+Italy;Friuli-Venezia Giulia;1;136;419;-554;555;03/04/2020
+Italy;Sicilia;1;101;94;-194;195;03/04/2020
+Italy;Abruzzo;1;146;116;-261;262;03/04/2020
+Italy;Umbria;1;39;220;-258;259;03/04/2020
+Italy;Sardegna;825;41;40;744;81;03/04/2020
+Italy;Calabria;733;45;26;662;71;03/04/2020
+Italy;Valle d'Aosta;719;70;89;560;159;03/04/2020
+Italy;Basilicata;261;11;3;247;14;03/04/2020
+Italy;Molise;176;11;21;144;32;03/04/2020
+Italy;Total;119;14;19;86;33;03/04/2020
+Germany;Total;91159;1275;24575;65309;25850;04/04/2020
+France;Total;82165;6507;14008;61650;20515;04/04/2020
+Iran;Total;55743;3452;19736;32555;23188;04/04/2020
+UK;Total;38168;3605;135;34428;3740;04/04/2020
+Turkey;Total;20921;425;484;20012;909;04/04/2020
+Switzerland;Total;20278;620;4846;14812;5466;04/04/2020
+Belgium;Total;18431;1283;3247;13901;4530;04/04/2020
+Netherlands;Total;16627;1651;250;14726;1901;04/04/2020
+Canada;Total;12549;208;2322;10019;2530;04/04/2020
+Austria;Total;11781;186;2507;9088;2693;04/04/2020
+Portugal;Total;10524;266;75;10183;341;04/04/2020
+S. Korea;Total;10156;177;6325;3654;6502;04/04/2020
+Brazil;Total;9216;365;127;8724;492;04/04/2020
+Israel;Total;7589;43;427;7119;470;04/04/2020
+Sweden;Total;6131;358;205;5568;563;04/04/2020
+Australia;Total;5550;30;585;4935;615;04/04/2020
+Norway;Total;5519;61;32;5426;93;04/04/2020
+Russia;Total;4731;43;333;4355;376;04/04/2020
+Ireland;Total;4273;120;25;4128;145;04/04/2020
+Czechia;Total;4194;56;74;4064;130;04/04/2020
+Denmark;Total;4077;161;1283;2633;1444;04/04/2020
+Chile;Total;3737;22;427;3288;449;04/04/2020
+Romania;Total;3613;141;329;3143;470;04/04/2020
+Poland;Total;3503;73;116;3314;189;04/04/2020
+Malaysia;Total;3483;57;915;2511;972;04/04/2020
+Ecuador;Total;3368;145;65;3158;210;04/04/2020
+Philippines;Total;3094;144;57;2893;201;04/04/2020
+India;Total;3082;86;229;2767;315;04/04/2020
+Japan;Total;2935;69;514;2352;583;04/04/2020
+Pakistan;Total;2708;41;130;2537;171;04/04/2020
+Luxembourg;Total;2612;31;500;2081;531;04/04/2020
+Indonesia;Total;2092;191;150;1751;341;04/04/2020
+Thailand;Total;2067;20;612;1435;632;04/04/2020
+Saudi Arabia;Total;2039;25;351;1663;376;04/04/2020
+Finland;Total;1882;20;300;1562;320;04/04/2020
+Mexico;Total;1688;60;633;995;693;04/04/2020
+Panama;Total;1673;41;10;1622;51;04/04/2020
+Greece;Total;1643;67;78;1498;145;04/04/2020
+Peru;Total;1595;61;537;997;598;04/04/2020
+South Africa;Total;1505;9;95;1401;104;04/04/2020
+Dominican Republic;Total;1488;68;16;1404;84;04/04/2020
+Serbia;Total;1476;39;54;1383;93;04/04/2020
+Iceland;Total;1364;4;336;1024;340;04/04/2020
+Argentina;Total;1353;42;266;1045;308;04/04/2020
+Colombia;Total;1267;25;55;1187;80;04/04/2020
+UAE;Total;1264;9;108;1147;117;04/04/2020
+Algeria;Total;1171;105;62;1004;167;04/04/2020
+Singapore;Total;1114;6;282;826;288;04/04/2020
+Ukraine;Total;1096;28;23;1045;51;04/04/2020
+Croatia;Total;1079;12;92;975;104;04/04/2020
+Qatar;Total;1075;3;93;979;96;04/04/2020
+Estonia;Total;1018;13;59;946;72;04/04/2020
+Egypt;Total;985;66;216;703;282;04/04/2020
+Slovenia;Total;977;22;70;885;92;04/04/2020
+New Zealand;Total;950;1;127;822;128;04/04/2020
+Hong Kong;Total;862;4;173;685;177;04/04/2020
+Morocco;Total;844;50;59;735;109;04/04/2020
+Iraq;Total;820;54;226;540;280;04/04/2020
+Lithuania;Total;771;10;7;754;17;04/04/2020
+Armenia;Total;770;7;43;720;50;04/04/2020
+Diamond Princess;Total;712;11;619;82;630;04/04/2020
+Bahrain;Total;688;4;399;285;403;04/04/2020
+Hungary;Total;678;32;58;588;90;04/04/2020
+Bosnia and Herzegovina;Total;616;19;27;570;46;04/04/2020
+Moldova;Total;591;10;26;555;36;04/04/2020
+Kazakhstan;Total;525;5;36;484;41;04/04/2020
+Azerbaijan;Total;521;5;32;484;37;04/04/2020
+Lebanon;Total;520;17;50;453;67;04/04/2020
+Cameroon;Total;509;8;17;484;25;04/04/2020
+Latvia;Total;509;1;1;507;2;04/04/2020
+Bulgaria;Total;498;15;34;449;49;04/04/2020
+Tunisia;Total;495;18;5;472;23;04/04/2020
+Kuwait;Total;479;1;93;385;94;04/04/2020
+Slovakia;Total;471;1;10;460;11;04/04/2020
+Andorra;Total;439;16;16;407;32;04/04/2020
+North Macedonia;Total;430;12;20;398;32;04/04/2020
+Costa Rica;Total;416;2;11;403;13;04/04/2020
+Cyprus;Total;396;11;28;357;39;04/04/2020
+Uruguay;Total;386;4;86;296;90;04/04/2020
+Taiwan;Total;355;5;50;300;55;04/04/2020
+Belarus;Total;351;4;53;294;57;04/04/2020
+Albania;Total;332;18;99;215;117;04/04/2020
+Réunion;Total;321;0;40;281;40;04/04/2020
+Jordan;Total;310;5;58;247;63;04/04/2020
+Burkina Faso;Total;302;16;50;236;66;04/04/2020
+Afghanistan;Total;299;7;10;282;17;04/04/2020
+Oman;Total;277;1;61;215;62;04/04/2020
+Cuba;Total;269;6;15;248;21;04/04/2020
+Honduras;Total;264;15;3;246;18;04/04/2020
+San Marino;Total;251;32;26;193;58;04/04/2020
+Uzbekistan;Total;241;2;25;214;27;04/04/2020
+Vietnam;Total;240;0;90;150;90;04/04/2020
+Channel Islands;Total;232;5;13;214;18;04/04/2020
+Ivory Coast;Total;218;1;19;198;20;04/04/2020
+Malta;Total;213;0;2;211;2;04/04/2020
+Nigeria;Total;210;4;25;181;29;04/04/2020
+Senegal;Total;207;1;66;140;67;04/04/2020
+Ghana;Total;205;5;31;169;36;04/04/2020
+Palestine;Total;205;1;21;183;22;04/04/2020
+Montenegro;Total;197;2;1;194;3;04/04/2020
+Mauritius;Total;196;7;0;189;7;04/04/2020
+Faeroe Islands;Total;181;0;93;88;93;04/04/2020
+Sri Lanka;Total;162;5;25;132;30;04/04/2020
+Georgia;Total;157;1;28;128;29;04/04/2020
+Venezuela;Total;153;7;52;94;59;04/04/2020
+DRC;Total;148;16;3;129;19;04/04/2020
+Kyrgyzstan;Total;144;1;9;134;10;04/04/2020
+Martinique;Total;143;3;27;113;30;04/04/2020
+Bolivia;Total;139;10;1;128;11;04/04/2020
+Brunei;Total;135;1;66;68;67;04/04/2020
+Guadeloupe;Total;130;7;24;99;31;04/04/2020
+Mayotte;Total;128;2;10;116;12;04/04/2020
+Kenya;Total;122;4;4;114;8;04/04/2020
+Isle of Man;Total;121;1;0;120;1;04/04/2020
+Niger;Total;120;5;0;115;5;04/04/2020
+Cambodia;Total;114;0;50;64;50;04/04/2020
+Trinidad and Tobago;Total;100;6;1;93;7;04/04/2020
+Paraguay;Total;96;3;12;81;15;04/04/2020
+Gibraltar;Total;95;0;46;49;46;04/04/2020
+Rwanda;Total;89;0;0;89;0;04/04/2020
+Liechtenstein;Total;75;0;0;75;0;04/04/2020
+Guinea;Total;73;0;2;71;2;04/04/2020
+Bangladesh;Total;70;8;30;32;38;04/04/2020
+Madagascar;Total;70;0;0;70;0;04/04/2020
+Monaco;Total;64;1;3;60;4;04/04/2020
+Aruba;Total;62;0;1;61;1;04/04/2020
+French Guiana;Total;57;0;22;35;22;04/04/2020
+El Salvador;Total;56;3;0;53;3;04/04/2020
+Jamaica;Total;53;3;7;43;10;04/04/2020
+Barbados;Total;51;0;0;51;0;04/04/2020
+Guatemala;Total;50;1;12;37;13;04/04/2020
+Djibouti;Total;50;0;8;42;8;04/04/2020
+Uganda;Total;48;0;0;48;0;04/04/2020
+Macao;Total;43;0;10;33;10;04/04/2020
+Togo;Total;40;3;17;20;20;04/04/2020
+Mali;Total;39;3;0;36;3;04/04/2020
+Zambia;Total;39;1;2;36;3;04/04/2020
+French Polynesia;Total;39;0;0;39;0;04/04/2020
+Ethiopia;Total;38;0;4;34;4;04/04/2020
+Bermuda;Total;35;0;14;21;14;04/04/2020
+Cayman Islands;Total;29;1;1;27;2;04/04/2020
+Bahamas;Total;24;3;0;21;3;04/04/2020
+Guyana;Total;23;4;0;19;4;04/04/2020
+Sint Maarten;Total;23;4;6;13;10;04/04/2020
+Congo;Total;22;2;2;18;4;04/04/2020
+Saint Martin;Total;22;1;2;19;3;04/04/2020
+Eritrea;Total;22;0;0;22;0;04/04/2020
+Gabon;Total;21;1;1;19;2;04/04/2020
+Myanmar;Total;20;1;0;19;1;04/04/2020
+Tanzania;Total;20;1;3;16;4;04/04/2020
+Maldives;Total;19;0;13;6;13;04/04/2020
+Haiti;Total;18;0;1;17;1;04/04/2020
+New Caledonia;Total;18;0;1;17;1;04/04/2020
+Libya;Total;17;1;0;16;1;04/04/2020
+Syria;Total;16;2;2;12;4;04/04/2020
+Benin;Total;16;0;2;14;2;04/04/2020
+Equatorial Guinea;Total;16;0;1;15;1;04/04/2020
+Antigua and Barbuda;Total;15;0;0;15;0;04/04/2020
+Guinea-Bissau;Total;15;0;0;15;0;04/04/2020
+Dominica;Total;14;0;0;14;0;04/04/2020
+Mongolia;Total;14;0;2;12;2;04/04/2020
+Namibia;Total;14;0;3;11;3;04/04/2020
+Saint Lucia;Total;13;0;1;12;1;04/04/2020
+Fiji;Total;12;0;0;12;0;04/04/2020
+Grenada;Total;12;0;0;12;0;04/04/2020
+Curaçao;Total;11;1;3;7;4;04/04/2020
+Sudan;Total;10;2;2;6;4;04/04/2020
+Suriname;Total;10;1;0;9;1;04/04/2020
+Greenland;Total;10;0;3;7;3;04/04/2020
+Laos;Total;10;0;0;10;0;04/04/2020
+Mozambique;Total;10;0;0;10;0;04/04/2020
+Seychelles;Total;10;0;0;10;0;04/04/2020
+MS Zaandam;Total;9;2;0;7;2;04/04/2020
+Zimbabwe;Total;9;1;0;8;1;04/04/2020
+Nepal;Total;9;0;1;8;1;04/04/2020
+Chad;Total;9;0;0;9;0;04/04/2020
+Saint Kitts and Nevis;Total;9;0;0;9;0;04/04/2020
+Eswatini;Total;9;0;0;9;0;04/04/2020
+Angola;Total;8;2;1;5;3;04/04/2020
+CAR;Total;8;0;0;8;0;04/04/2020
+Cabo Verde;Total;7;1;0;6;1;04/04/2020
+Vatican City;Total;7;0;0;7;0;04/04/2020
+Liberia;Total;7;0;0;7;0;04/04/2020
+St. Vincent Grenadines;Total;7;0;1;6;1;04/04/2020
+Somalia;Total;7;0;1;6;1;04/04/2020
+Mauritania;Total;6;1;2;3;3;04/04/2020
+Montserrat;Total;6;0;0;6;0;04/04/2020
+St. Barth;Total;6;0;1;5;1;04/04/2020
+Nicaragua;Total;5;1;0;4;1;04/04/2020
+Bhutan;Total;5;0;2;3;2;04/04/2020
+Turks and Caicos;Total;5;0;0;5;0;04/04/2020
+Botswana;Total;4;1;0;3;1;04/04/2020
+Gambia;Total;4;1;2;1;3;04/04/2020
+Belize;Total;4;0;0;4;0;04/04/2020
+Malawi;Total;4;0;0;4;0;04/04/2020
+Anguilla;Total;3;0;0;3;0;04/04/2020
+British Virgin Islands;Total;3;0;0;3;0;04/04/2020
+Burundi;Total;3;0;0;3;0;04/04/2020
+Caribbean Netherlands;Total;2;0;0;2;0;04/04/2020
+Sierra Leone;Total;2;0;0;2;0;04/04/2020
+Falkland Islands;Total;1;0;0;1;0;04/04/2020
+Papua New Guinea;Total;1;0;0;1;0;04/04/2020
+Timor-Leste;Total;1;0;0;1;0;04/04/2020
+China;Total;81639;3326;76755;1558;80081;04/04/2020
